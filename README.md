@@ -125,12 +125,6 @@ To test the endpoints, use Postman to send HTTP requests to the running applicat
 - **Deposit Money**: Use `/api/accounts/{accountId}/deposit` to deposit money into the user's account.
 
 ## Diagrams
-The `src/documentation` folder contains the following diagrams:
-- **ERD**: Describes the relationships between `User`, `Account`, and `Employee`.
-- **Class Diagram (UML)**: Shows the structure of the main classes and their associations.
-- **Flowchart**: Explains the flow of major features like account creation or money transfer.
-
-## Diagrams
 The following diagrams illustrate the structure and workflows of the Bank Management System:
 
 1. **Entity-Relationship Diagram (ERD)** - Shows the relationships between users, accounts, and employees.
