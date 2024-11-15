@@ -133,25 +133,14 @@ The `src/documentation` folder contains the following diagrams:
 ### Diagrams for Bank Management System
 The `BankManagementSystem` project includes various diagrams to provide a visual understanding of the system's architecture, database, and workflows. Below are the key diagrams included with the project:
 
-1. **Entity-Relationship Diagram (ERD)**
-   - **Purpose**: Illustrates the relationships between the main entities of the application: `User`, `Account`, and `Employee`.
-   - **Details**:
-     - **User**: Represents the individual customer of the bank.
-     - **Account**: Represents the bank accounts associated with a `User`. Types include "Savings", "Personal", and "Business".
-     - **Employee**: Represents the bank employee entity with limited access, created with a valid HR PIN.
+## Diagrams
+The following diagrams illustrate the structure and workflows of the Bank Management System:
 
-2. **Class Diagram (UML)**
-   - **Purpose**: Represents the structure of the Java classes used in the project, including attributes and key methods for each class.
-   - **Details**:
-     - Shows the classes `User`, `Account`, `Employee`, and relationships like associations, aggregations, and inheritance.
-     - Highlights the interactions between `Controller`, `Service`, and `Repository` layers.
+1. **Entity-Relationship Diagram (ERD)** - Shows the relationships between users, accounts, and employees.
+2. **Class Diagram** - Depicts the system's key classes, attributes, and their associations.
+3. **Flowchart** - Visualizes the workflows for major system processes.
 
-3. **Flowchart**
-   - **Purpose**: Describes the logical flow of key features within the Bank Management System.
-   - **Key Features Covered**:
-     - **Account Creation Flow**: Shows steps for creating a bank account for a user.
-     - **Transaction Handling**: Outlines the flow for money deposits, withdrawals, and transfer between accounts.
-     - **Employee Management**: Describes the employee account creation and deletion process.
+For detailed reference, see the `src/documentation` folder.
 
 ## Folder Structure
 ```
