@@ -130,9 +130,6 @@ The `src/documentation` folder contains the following diagrams:
 - **Class Diagram (UML)**: Shows the structure of the main classes and their associations.
 - **Flowchart**: Explains the flow of major features like account creation or money transfer.
 
-### Diagrams for Bank Management System
-The `BankManagementSystem` project includes various diagrams to provide a visual understanding of the system's architecture, database, and workflows. Below are the key diagrams included with the project:
-
 ## Diagrams
 The following diagrams illustrate the structure and workflows of the Bank Management System:
 
